@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/swatantra-0/leetCode-_submission/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
