@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/swatantra-0/leetCode-_submission/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/swatantra-0/leetCode-_submission/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/swatantra-0/leetCode-_submission/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/swatantra-0/leetCode-_submission/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
