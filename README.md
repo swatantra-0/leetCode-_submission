@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/swatantra-0/leetCode-_submission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/swatantra-0/leetCode-_submission/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/swatantra-0/leetCode-_submission/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swatantra-0/leetCode-_submission/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/swatantra-0/leetCode-_submission/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/swatantra-0/leetCode-_submission/tree/master/0301-remove-invalid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/swatantra-0/leetCode-_submission/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
