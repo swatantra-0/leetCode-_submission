@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/swatantra-0/leetCode-_submission/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/swatantra-0/leetCode-_submission/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swatantra-0/leetCode-_submission/tree/master/0016-3sum-closest) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swatantra-0/leetCode-_submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swatantra-0/leetCode-_submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swatantra-0/leetCode-_submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/swatantra-0/leetCode-_submission/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swatantra-0/leetCode-_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/swatantra-0/leetCode-_submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swatantra-0/leetCode-_submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +90,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/swatantra-0/leetCode-_submission/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swatantra-0/leetCode-_submission/tree/master/0016-3sum-closest) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swatantra-0/leetCode-_submission/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swatantra-0/leetCode-_submission/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
